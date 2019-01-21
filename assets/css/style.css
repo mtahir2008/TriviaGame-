@@ -17,12 +17,12 @@ html, body{
   }
   
   #subcontainer{
-    position: relative, center;
+    position: relative;
   }
   button{
     display:block;
-    width:50%;
-    height:20%;
+    widows: 45%;
+    height:16%;
     margin: 0 auto;
     border:none;
     cursor: pointer;
@@ -31,7 +31,7 @@ html, body{
   }
   
   img{
-    height:182px;
+    height:175px;
   }
   
   h1{
